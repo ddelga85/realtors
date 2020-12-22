@@ -8,11 +8,11 @@ body {
   }
   
   .style1 {
-    background-color: #9B9A9A;
+    background-color: red;
   }
   
   .style2 {
-    background-color: #9B9A9A;
+    background-color: blue;
   }
   
   .style3 {
@@ -20,15 +20,15 @@ body {
   }
   
   .style4 {
-    background-color: #9B9A9A;
+    background-color: green;
   }
   
   .style5 {
-    background-color: #9B9A9A;
+    background-color: yellow;
   }
   
   .style6 {
-    background-color: #9B9A9A;
+    background-color: orange;
   }
   
   /* SETTING THE COLOR OF THE BOX TEXT */
